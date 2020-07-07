@@ -17,7 +17,10 @@
   },
   "homepage": "https://github.com/ElijaHHall/cbdemo#readme",
   "dependencies": {
+    "bcrypt": "^5.0.0",
+    "express": "^4.17.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
-  }
+  },
+  "devDependencies": {}
 }
